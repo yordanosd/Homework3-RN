@@ -1,0 +1,6 @@
+framework module Pods_PicItApp {
+  umbrella header "Pods-PicItApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
